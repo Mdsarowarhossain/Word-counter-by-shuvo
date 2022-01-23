@@ -1,0 +1,36 @@
+body{
+  
+ background: rgb(92, 91, 108);
+ background: linear-gradient(90deg, rgba(92, 91, 108, 1) 7%, rgba(27, 27, 105, 1) 41%, rgba(0, 212, 255, 1) 99%);
+ 
+  
+}
+
+.tvstyle{
+  padding: 1% 4%;
+height:35px;
+
+text-align: center;
+  background: #000000;
+  color: #ffffff;
+  font-size: bolder;
+}
+.container{
+ position: relative;
+ left: 0;
+ right: 0;
+ bottom: 0;
+ top: 0;
+ margin: auto;
+}
+img{
+ 
+}
+.hea{
+  color: white;
+
+}
+  
+
+
+
